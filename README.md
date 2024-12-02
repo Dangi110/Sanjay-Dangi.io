@@ -11,16 +11,14 @@ Area of Interest: Design and analysis of mechanical systems, CAD-CAM, FEM,CFD, R
  
 
 ### Latest 
-- Our work "LimTopic: LLM based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" accepted in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
-- Our work "Limitation Generation of Research Papers with LLms and Retrieval Augmented Generation (RAG)" has been accepted in 11th
-IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024), San Diego, CA as a poster.
+- Air Quality Control Technology with Electrostatic Precipitator for fine particle PM2.5 (filterless particulate matter capturing)
+- 2D Simulation of Moving Laser on substrate 
 - Our work "Mitigating Visual Limitations of Research Papers" has been accepted in 2024 IEEE International Conference on Big Data (IEEE
 BigData 2024) as a poster.
 
 ### Education
-- PhD in Computer Science, Northern Illinois University, Dekalb, United States (August 2023 - Present)
-- MS in Computer Science, Northern Illinois University, Dekalb, United States (August 2023 - Present)
-- BSc in Computer Science, Sylhet Engineering College, Sylhet, Bangladesh (March 2016 - March 2021)
+- MS in Mechanical Engineering, Northern Illinois University, Dekalb, United States (August 2023 - Present)
+- BE in Mechanical Engineering, Pulchowk Engineering Campus, Tribhuvan University, Nepal (November 2014 - September 2018)
 
 ### Research Interests:
 <img src="LLM.jpg" alt="Logo" width="390" height="255"> 
