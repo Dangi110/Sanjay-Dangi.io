@@ -1,5 +1,5 @@
 # Mechanical Engineer
-Area of Interest: Design and analysis of mechanical systems, CAD-CAM, FEM,CFD, Renewable Energy, Battery, Fuel Cell, (3D printing) additive manufacturing, Heat transfer, Air Quality Control Technology with Electrostatic Precipitator, Programming Languages
+Area of Interest: Design and analysis of mechanical systems, CAD-CAM, FEM,CFD, PIV flow visualization technique using Nd:YAG Pulsating Laser, Vortex Flow analysis, Renewable Energy, Battery, Fuel Cell, (3D printing) additive manufacturing, Heat transfer, Air Quality Control Technology with Electrostatic Precipitator, Programming Languages
 
 
 <a href="#Education"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Education</button></a>
@@ -11,10 +11,9 @@ Area of Interest: Design and analysis of mechanical systems, CAD-CAM, FEM,CFD, R
  
 
 ### Latest 
-- Air Quality Control Technology with Electrostatic Precipitator for fine particle PM2.5 (filterless particulate matter capturing)
-- 2D Simulation of Moving Laser on substrate 
-- Our work "Mitigating Visual Limitations of Research Papers" has been accepted in 2024 IEEE International Conference on Big Data (IEEE
-BigData 2024) as a poster.
+- Air Quality Control Technology with Electrostatic Precipitator for fine particle sizes PM2.5 (filterless particulate matter capturing).
+- 2D Simulation of Moving Laser with and without pulse on the substrate. 
+- PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering
 
 ### Education
 - MS in Mechanical Engineering, Northern Illinois University, Dekalb, United States (August 2023 - Present)
