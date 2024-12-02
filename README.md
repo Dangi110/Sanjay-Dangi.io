@@ -1,5 +1,5 @@
 # Mechanical Engineer
-Area of Interest: Design and analysis of mechanical systems, CAD-CAM, FEM,CFD, PIV flow visualization technique using Nd:YAG Pulsating Laser, Vortex Flow analysis, Renewable Energy, Battery, Fuel Cell, (3D printing) additive manufacturing, Heat transfer, Air Quality Control Technology with Electrostatic Precipitator, Programming Languages
+Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, PIV Flow Visualization Technique Using Nd:YAG Pulsating Laser, Vortex Flow Analysis, Renewable Energy, Battery, Fuel Cell, (3D printing) additive manufacturing, Heat transfer, Air Quality Control Technology with Electrostatic Precipitator, Programming Languages 
 
 
 <a href="#Education"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Education</button></a>
@@ -12,8 +12,9 @@ Area of Interest: Design and analysis of mechanical systems, CAD-CAM, FEM,CFD, P
 
 ### Latest 
 - Air Quality Control Technology with Electrostatic Precipitator for fine particle sizes PM2.5 (filterless particulate matter capturing).
-- 2D Simulation of Moving Laser with and without pulse on the substrate. 
-- PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering
+- PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering.
+- 2D Simulation of Moving Laser (with and without) pulse on the substrate with air flow on top surface. 
+
 
 ### Education
 - MS in Mechanical Engineering, Northern Illinois University, Dekalb, United States (August 2023 - Present)
@@ -21,11 +22,11 @@ Area of Interest: Design and analysis of mechanical systems, CAD-CAM, FEM,CFD, P
 
 ### Research Interests:
 <img src="LLM.jpg" alt="Logo" width="390" height="255"> 
-- Information Extraction (text and images) in Science of Science, utilizing Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
-- Utilizing BERTopic, LLM with zero shot, few shots, chain/tree/graph of thoughts, self-consistency, prompt tuning, prefix tuning, fine-tuning with LoRa/QLora/Dora. 
-- Jailbreaking, Evaluation, and Hallucination of LLM and Tiny LLm. 
-- Optimizing LLM performance: time complexity 0(n) with Mamba (state space models), Flash Attention, KV cache, xLSTM, Deja Vu, Sparse LLM, Galore/Q-Galore, and scalable matrix multiplication.
-- Open Source LLM: Llama, OLMO, Ollama, Dolma, Paloma.
+- PIV flow visualization
+- Analysis using COMSOL, ANSYS
+- Disign with SOlidWorks, AutoCAD
+- Air Quality control Technology
+- Renewable Energy(Biogas), Battery and Fuelcell
 - Vision: LLM (Llava), Diffusion model, CLIP, BLIP,GAN, Variational Autoencoder, Vision Transformer, Swithc Transformer, a Mixture of Experts, and multi-modal LLM.   
 
 ### Published
