@@ -38,10 +38,10 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 - "PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering"
 
 ### Experience
-#### Research Assistant, Northern Illinois University, Dekalb, IL (May 2024 - Continue):
-- Extracting texts and images from scientific articles using large language models. Incorporating LLM techniques
-such as zero-shot, few-shot, chain of thoughts, self-consistency, and fine-tuning.
-- LLM is used for code vulnerability detection and image analysis with large vision language models, superpixels, diffusion models, vision transformers, etc.
+#### Research Assistant, Northern Illinois University, Dekalb, IL (Aug 2024 - Continue):
+- Designing the lab scale setup for the nobel Large-scale EHD vortex generator based on the ESP principle
+- Analyze the potential of nobel large-scale vortex to promote fine particle agglomeration
+- 2D-PIV image analysis on PIVview/PIVlab and data analysis using Matlab
 
 #### Teaching Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
 - C++, Data Structures, and Algorithm Analysis
