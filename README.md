@@ -24,6 +24,9 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 ### Research Interests
 <img src="INdustrial ESP.jpg" alt="Logo" width="390" height="255"> 
 <img src="PIV.jpg" alt="Logo" width="390" height="255"> 
+<img src="Presentation.jpg" alt="Logo" width="390" height="255">  
+<img src="PIV.jpg" alt="Logo" width="390" height="255"> 
+<img src="gif.gif" alt="Logo" width="390" height="255"> 
 - PIV flow visualization
 - Analysis using COMSOL, ANSYS
 - Disign with SolidWorks, AutoCAD
@@ -37,14 +40,14 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
   
 ### In Progress- Thesis and Potential Research Paper
 - "PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering"
-
+<img src="Capture.PNG" alt="Logo" width="390" height="255">
 ### Experience
-#### Research Assistant, Northern Illinois University, Dekalb, IL (Aug 2024 - Continue):
+#### Plant Incharge, Khilung Kalika Bio-gas Power Plant, Syangja, Nepal (Aug 2024 - Continue):
 - Designing the lab scale setup for the nobel Large-scale EHD vortex generator based on the ESP principle
 - Analyze the potential of nobel large-scale vortex to promote fine particle agglomeration
 - 2D-PIV image analysis on PIVview/PIVlab and data analysis using Matlab
 
-#### Teaching Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
+#### Plant Incharge, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
 - C++, Data Structures, and Algorithm Analysis
 - Conducted weekly lab sessions for over 50 students, facilitating hands-on exercises in Data structures (BFS, DFS, Linked list) and Algorithms.
 
