@@ -22,7 +22,8 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 - BE in Mechanical Engineering, Pulchowk Engineering Campus, Tribhuvan University, Nepal (November 2014 - September 2018)
 
 ### Research Interests
-<img src="LLM.jpg" alt="Logo" width="390" height="255"> 
+<img src="INdustrial ESP.jpg" alt="Logo" width="390" height="255"> 
+<img src="PIV.jpg" alt="Logo" width="390" height="255"> 
 - PIV flow visualization
 - Analysis using COMSOL, ANSYS
 - Disign with SolidWorks, AutoCAD
