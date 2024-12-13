@@ -13,7 +13,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 ### Latest 
 - Air Quality Control Technology with Electrostatic Precipitator for fine particle sizes PM2.5 (filterless particulate matter capturing).
 - PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering.
-  <img src="PIV.jpg" alt="Logo" width="390" height="255"> 
+<img src="PIV.jpg" alt="Logo" width="390" height="255"> 
 - 2D Simulation of Moving Laser (with and without) pulse on the substrate with air flow on top surface.
 - 3D Printing: Tutor, Mantainance and Supervision for Rockford Environmental Science Acadamy (RESA)
 
