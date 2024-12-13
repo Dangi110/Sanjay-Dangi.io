@@ -24,7 +24,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 ### Research Interests
 <img src="INdustrial ESP.jpg" alt="Logo" width="390" height="255"> 
-
+<img src="Untitled.gif" alt="Logo" width="390" height="255"> 
 <img src="gif.gif" alt="Logo" width="390" height="255"> 
 - PIV flow visualization
 - Analysis using COMSOL, ANSYS
