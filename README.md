@@ -1,5 +1,5 @@
 # Mechanical Engineer
-Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, PIV Flow Visualization Technique Using Nd:YAG Pulsating Laser, Vortex Flow Analysis, Renewable Energy, Battery, Fuel Cell, (3D printing) additive manufacturing, Heat transfer, Air Quality Control Technology with Electrostatic Precipitator, Programming Languages 
+Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, PIV Flow Visualization Technique Using Nd:YAG Pulsating Laser and sCMOS camera, Vortex Flow Analysis, Renewable Energy, Battery, Fuel Cell, (3D printing) additive manufacturing, Heat transfer, Air Quality Control Technology with Electrostatic Precipitator, Programming Languages 
 
 
 <a href="#Education"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Education</button></a>
@@ -12,8 +12,8 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 ### Latest 
 - Air Quality Control Technology with Electrostatic Precipitator for fine particle sizes PM2.5 (filterless particulate matter capturing).
-- PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering.
-<img src="PIV.jpg" alt="Logo" width="390" height="255"> 
+- PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering.\\
+<img src="PIV.jpg" alt="Logo" width="390" height="255"> \\
 - 2D Simulation of Moving Laser (with and without) pulse on the substrate with air flow on top surface.
 - 3D Printing: Tutor, Mantainance and Supervision for Rockford Environmental Science Acadamy (RESA)
 
