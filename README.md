@@ -24,7 +24,9 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 ### Education
 - MS in Mechanical Engineering, Northern Illinois University, Dekalb, United States (August 2023 - Present) - GPA: 3.91
+  "PIV Characterization of a Large-Scale EHD Vortex Confinement Flow in Wire-to-Plate Electrostaic Precipitator for Particle Agglomeration"
 - BE in Mechanical Engineering, Pulchowk Engineering Campus, Tribhuvan University, Nepal (November 2014 - September 2018) - 74%
+  "Design and Fabrication of Manually Operated, Engine Powered Rice reaper"
 
 ### Research Interests
 <img src="INdustrial ESP.jpg" alt="Logo" width="390" height="255"> 
@@ -39,7 +41,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 ### Published
 <img src="Presentation.jpg" alt="Logo" width="390" height="255">  
-- Sanjay Dangi and E.M Lee "PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering", The American Association for Aerosol Research (AAAR), 2024 
+- Sanjay Dangi and E.M Lee "PIV Characterization of a Large-Scale EHD Vortex Confinement Flow in Wire-to-Plate Electrostaic Precipitator for Particle Agglomeration", The American Association for Aerosol Research (AAAR), 2024 
 - S. Dangi et al., "Design and Fabrication of Engine Powered Manually Operated Rice Reaper", Research Center for Applied Science and Technology (RECAST),2018 
   
 ### In Progress- Thesis and Potential Research Paper
@@ -47,12 +49,18 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 <img src="Capture.PNG" alt="Logo" width="390" height="255">
 
 ### Experience
-#### Plant Incharge, Khilung Kalika Bio-gas Power Plant, Syangja, Nepal (Aug 2024 - Continue):
+
+#### Research Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
 - Designing the lab scale setup for the nobel Large-scale EHD vortex generator based on the ESP principle
 - Analyze the potential of nobel large-scale vortex to promote fine particle agglomeration
 - 2D-PIV image analysis on PIVview/PIVlab and data analysis using Matlab
 
-#### Research Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
+#### Rockford Environmental Science Academy (RESA), Science and Technology Project Instructor
+- Taught students the fundamentals of 3D printing and Tinkercad
+- Developed and delivered hands-on workshop to enhance students' practical skills
+- Guided students through the design and creation of 3D models
+  
+#### Plant Incharge, Khilung Kalika Bio-gas Power Plant, Syangja, Nepal (Aug 2024 - Continue):
 - Anaerobic Digester, Gas Generators and Decantation Process
 - PLC programming, SCADA handling
 - Organic fertilizer production plant supervision
