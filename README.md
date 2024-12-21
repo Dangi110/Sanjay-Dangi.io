@@ -15,6 +15,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 - PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering.\\
 <img src="PIV.jpg" alt="Logo" width="390" height="255"> \\
 - 2D Simulation of Moving Laser (with and without) pulse on the substrate with air flow on top surface.
+- <img src="Untitled...gif" alt="Logo" width="390" height="255"> 
 - 3D Printing: Tutor, Mantainance and Supervision for Rockford Environmental Science Acadamy (RESA)
 
 
@@ -24,7 +25,6 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 ### Research Interests
 <img src="INdustrial ESP.jpg" alt="Logo" width="390" height="255"> 
-<img src="Untitled...gif" alt="Logo" width="390" height="255"> 
 - PIV flow visualization
 - Analysis using COMSOL, ANSYS
 - Disign with SolidWorks, AutoCAD
