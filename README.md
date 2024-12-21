@@ -39,12 +39,13 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 ### Published
 <img src="Presentation.jpg" alt="Logo" width="390" height="255">  
-- Sanjay Dangi, "PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering", The American Association for Aerosol Research (AAAR), 2024 
+- Sanjay Dangi and E.M Lee "PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering", The American Association for Aerosol Research (AAAR), 2024 
 - S. Dangi et al., "Design and Fabrication of Engine Powered Manually Operated Rice Reaper", Research Center for Applied Science and Technology (RECAST),2018 
   
 ### In Progress- Thesis and Potential Research Paper
 - "PIV Characterization of Large-Scale EHD Vortex Confinement Flow in wire-to-plate Electrostaic Precipitator for Particle Clustering"
 <img src="Capture.PNG" alt="Logo" width="390" height="255">
+
 ### Experience
 #### Plant Incharge, Khilung Kalika Bio-gas Power Plant, Syangja, Nepal (Aug 2024 - Continue):
 - Designing the lab scale setup for the nobel Large-scale EHD vortex generator based on the ESP principle
