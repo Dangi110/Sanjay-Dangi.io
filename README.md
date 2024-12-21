@@ -23,8 +23,8 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 
 ### Education
-- MS in Mechanical Engineering, Northern Illinois University, Dekalb, United States (August 2023 - Present)
-- BE in Mechanical Engineering, Pulchowk Engineering Campus, Tribhuvan University, Nepal (November 2014 - September 2018)
+- MS in Mechanical Engineering, Northern Illinois University, Dekalb, United States (August 2023 - Present) - GPA: 3.91
+- BE in Mechanical Engineering, Pulchowk Engineering Campus, Tribhuvan University, Nepal (November 2014 - September 2018) - 74%
 
 ### Research Interests
 <img src="INdustrial ESP.jpg" alt="Logo" width="390" height="255"> 
