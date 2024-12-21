@@ -17,7 +17,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 - 2D Simulation of Moving Laser (with and without) pulse on the substrate with air flow on top surface.
 - <img src="Untitled...gif" alt="Logo" width="390" height="255"> 
 - 3D Printing: Tutor, Mantainance and Supervision for Rockford Environmental Science Acadamy (RESA)
-
+- <img src="IMG_3842.MOV" alt="Logo" width="390" height="255"> 
 
 ### Education
 - MS in Mechanical Engineering, Northern Illinois University, Dekalb, United States (August 2023 - Present)
@@ -32,7 +32,6 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 - Renewable Energy(Biogas), Battery and Fuelcell
 - 3D Printing 
 
-<img src="3d print.PNG" alt="Logo" width="390" height="255">
 
 
 ### Published
