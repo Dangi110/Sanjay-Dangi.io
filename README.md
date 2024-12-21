@@ -1,5 +1,5 @@
 # Mechanical Engineer
-Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, PIV Flow Visualization Technique Using Nd:YAG Pulsating Laser and sCMOS camera, Vortex Flow Analysis, Renewable Energy, Battery, Fuel Cell, (3D printing) additive manufacturing, Heat transfer, Air Quality Control Technology with Electrostatic Precipitator, Programming Languages 
+Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, PIV Flow Visualization Technique Using Nd:YAG Pulsating Laser and sCMOS camera, Vortex Flow Analysis, Renewable Energy, Battery, Fuel Cell, (3D printing) additive manufacturing, Heat transfer, Air Quality Control Technology with Electrostatic Precipitator, High_voltage Power Supply, Lathe, Drill, Programming Languages 
 
 
 <a href="#Education"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Education</button></a>
@@ -52,7 +52,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 - Analyze the potential of nobel large-scale vortex to promote fine particle agglomeration
 - 2D-PIV image analysis on PIVview/PIVlab and data analysis using Matlab
 
-#### Plant Incharge, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
+#### Research Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
 - Anaerobic Digester, Gas Generators and Decantation Process
 - PLC programming, SCADA handling
 - Organic fertilizer production plant supervision
