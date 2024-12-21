@@ -75,15 +75,13 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 - Quality control basics 
 
 ### Skills: 
-- Programming Languages: C, C++, Python, Javascript, Java, PHP
-- Framework and Technologies: Django, Laravel, HTML, CSS, Bootstrap, Odoo, Django, Django REST 
-- Open Source Library: Keras, Tensorflow, Pytorch, numpy, pandas, sci-kit learn, matplotlib,
-- Database: Oracle SQL, MySql, Postgresql
-- (Development tools): Git, Github, CodeBlocks, Pycharm, Visual Studio, Anaconda, Jupyter Notebook, Latex, Overleaf
-- Operating system: Linux OS, Windows
+- Programming Languages: Matlab, Python(ML- Neural Network), PLC (ABB) and SCADA interface
+- MS office: Pptx, Excel, 
+- (Development tools): Git, Github, Visual Studio (VS-Code), Jupyter Notebook, Latex, Overleaf, Pycharm, Anaconda, CodeBlocks 
+- Machineshop: Lathe, Drill, water jet, 3D printing, laser engraving, welding
 
 ### Honors & Awards
-- Grant for undergraduate project by RECAST
+- Grant for undergraduate research project by RECAST, Nepal
  
 
 ### Learning:
