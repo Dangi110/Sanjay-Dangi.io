@@ -52,19 +52,22 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 #### Research Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
 - Designing the lab scale setup for the nobel Large-scale EHD vortex generator based on the ESP principle
-- <img src="Laser issue.JPG" alt="Logo" width="390" height="255">
+ <img src="Laser issue.JPG" alt="Logo" width="390" height="255">
 - Analyze the potential of nobel large-scale vortex to promote fine particle agglomeration
 - 2D-PIV image analysis on PIVview/PIVlab and data analysis using Matlab
+- Thesis titled "PIV Characterization of Novel Large-Scale EHD Vortex Confinement Flow in Wire-to Plate ESP to Promote Fine Particle Agglomeration"
 
 #### Rockford Environmental Science Academy (RESA), Science and Technology Project Instructor
 - Taught students the fundamentals of 3D printing and Tinkercad
 - Developed and delivered hands-on workshop to enhance students' practical skills
 - Guided students through the design and creation of 3D models
+- Designed tinkercad tutorial and 3D desing challenges 
   
 #### Plant Incharge, Khilung Kalika Bio-gas Power Plant, Syangja, Nepal (Aug 2024 - Continue):
-- Anaerobic Digester, Gas Generators and Decantation Process
+- Anaerobic digester, bio-gas and diesel generators and decantation process
 - PLC programming, SCADA handling
 - Organic fertilizer production plant supervision
+- Handled bio-gas scrubbing unit 
   
 #### TOYOTA (UTS)- Internship, Kathmandu, Nepal (June 2021 ‑ February 2022)
  - Maintainance and general servicing of toyota vehicles
