@@ -29,7 +29,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
   "Design and Fabrication of Manually Operated, Engine Powered Rice reaper"
 
 <img src="Rice reaper design.PNG" alt="Logo" width="390" height="255">
-<img src="Fabricated rice reaper.PNG" alt="Logo" width="390" height="255">
+<img src="Fabricated rice reaper.PNG" alt="Logo" width="390" height="300">
 
 ### Research Interests
 <img src="INdustrial ESP.jpg" alt="Logo" width="390" height="255"> 
