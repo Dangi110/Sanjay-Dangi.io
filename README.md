@@ -52,6 +52,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
 
 #### Research Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
 - Designing the lab scale setup for the nobel Large-scale EHD vortex generator based on the ESP principle
+- <img src="Laser issue.JPG" alt="Logo" width="390" height="255">
 - Analyze the potential of nobel large-scale vortex to promote fine particle agglomeration
 - 2D-PIV image analysis on PIVview/PIVlab and data analysis using Matlab
 
