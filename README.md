@@ -27,6 +27,7 @@ Area of Interest: Design and Analysis of Mechanical Systems, CAD-CAM, FEM,CFD, P
   "PIV Characterization of a Large-Scale EHD Vortex Confinement Flow in Wire-to-Plate Electrostaic Precipitator for Particle Agglomeration"
 - BE in Mechanical Engineering, Pulchowk Engineering Campus, Tribhuvan University, Nepal (November 2014 - September 2018) - 74%
   "Design and Fabrication of Manually Operated, Engine Powered Rice reaper"
+  <img src="Rice reaper design.PNG" alt="Logo" width="390" height="255">
 
 ### Research Interests
 <img src="INdustrial ESP.jpg" alt="Logo" width="390" height="255"> 
