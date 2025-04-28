@@ -11,9 +11,10 @@ PLCs | Lathe/Drill Operation | Programming
 ---
 
 ## 📚 **Quick Links**
-[![Education](https://img.shields.io/badge/Education-📖-green)](#education)
-[![Research](https://img.shields.io/badge/Research-🔬-blue)](#research-interests)
-[![Experience](https://img.shields.io/badge/Experience-🏭-blue)](#experience)
+[![Education](https://img.shields.io/badge/Education-📖-4CAF50)](#education)
+[![Research](https://img.shields.io/badge/Research-🔬-008CBA)](#research-interests)
+[![Experience](https://img.shields.io/badge/Experience-🏭-008CBA)](#experience)
+
 
 ---
 
