@@ -76,7 +76,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 
 ## 🛠 **In Progress**
 - **Thesis + Research Paper:**  
-  *"PIV Characterization of Large-Scale EHD Vortex Flow in Wire-to-Plate ESP for Particle Clustering"*
+  *"PIV Characterization of Large-Scale EHD Vortex Flow in Wire-to-Plate ESP for Particle Agglomeration"*
 
 <div style="display: flex; gap: 10px;">
   <img src="Capture.PNG" alt="Research Image" width="390" height="255">
