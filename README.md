@@ -41,7 +41,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
   - Thesis: *PIV Characterization of a Large-Scale EHD Vortex Confinement Flow in Wire-to-Plate ESP for Particle Agglomeration*
 
 - **B.E. Mechanical Engineering**, Pulchowk Campus, Tribhuvan University, Nepal *(2014–2018)* — 74%  
-  - Project: *Design and Fabrication of Manually Operated Engine-Powered Rice Reaper*
+  - Thesis: *Design and Fabrication of Manually Operated Engine-Powered Rice Reaper*
 
 <div style="display: flex; gap: 10px;">
   <img src="Rice reaper design.PNG" alt="Rice Reaper Design" width="390" height="255">
