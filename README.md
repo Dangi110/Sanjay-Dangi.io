@@ -33,10 +33,14 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
   <tr>
     <td><img src="PIV.jpg" alt="PIV Image" width="390"></td>
     <td><img src="Untitled...gif" alt="2D Simulation" width="390"></td>
-    <td><img src="3d print.PNG" alt="3D Printing" width="390"></td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td><img src="3d print.PNG" alt="3D Printing" width="390"></td>
+    <td><img src="2EHD Cam1_0015.png" alt="2EHD Cam1_0015" width="200"></td>
+  </tr>
+</table>
 ---
 
 ## 🎓 **Education**
