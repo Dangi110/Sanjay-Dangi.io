@@ -6,7 +6,7 @@ Design and Analysis of Mechanical Systems | CAD-CAM | FEM | CFD <br>
 PIV Flow Visualization (Nd:YAG Laser + sCMOS Camera)|Vortex Flow Analysis  <br>
 Renewable Energy | Battery & Fuel Cell | Additive Manufacturing (3D Printing) | Heat Transfer <br>
 Air Quality Control (ESP) | High-Voltage Systems <br>
-PLCs | Lathe | Drill Operation | Programming  
+PLCs | Lathe | Drill Operation | Matlab Programming  
 
 ---
 
