@@ -98,8 +98,13 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 - Developed hands-on challenges for students.
 
 ### **Plant Incharge**, Khilung Kalika Biogas Plant, Nepal *(Aug 2019 – Feb 2022)*  
-- Managed **anaerobic digestion systems**, diesel generators, biogas scrubbing.  
-- **PLC and SCADA Operations**.
+- - Maintenance of **Anaerobic Digester** and **Decantation Unit**.  
+- **Basic programming and maintenance** of **PLC (ABB)** and **SCADA** systems.  
+- Supervision of **Chemical Scrubbing Unit** for biogas purification.  
+- Operation and maintenance of **Biogas (1 MW)** and **Diesel Generators (700 kW)**, including **Biogas-Powered Boiler Unit** handling.  
+- Supervised production of **Granular and Liquid Organic Fertilizer**.  
+- Responsible for **Factory Line Maintenance**, **Inspection**, and **Inventory Management**.  
+- Led **Technicians Team** and managed **labor operations**.
 
 ### **Wastewater Treatment Project Lead**, Nepal *(2019 – 2021)*  
 - Led the **installation and testing** of a wastewater treatment plant in collaboration with **Bikon Water Treatment Pvt. Ltd.**  
