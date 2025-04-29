@@ -2,11 +2,11 @@
 ### 🚀 Portfolio | Research | Engineering  
 
 ## 🏆 Areas of Interest:
-Design and Analysis of Mechanical Systems | CAD-CAM | FEM | CFD <br>
-PIV Flow Visualization (Nd:YAG Laser + sCMOS Camera)|Vortex Flow Analysis  <br>
-Renewable Energy | Battery & Fuel Cell | Additive Manufacturing (3D Printing) | Heat Transfer <br>
-Air Quality Control (ESP) | High-Voltage Systems <br>
-PLCs | Lathe | Drill Operation | Matlab Programming  
+Design and Analysis of Mechanical Systems | CAD-CAM | FEM | CFD  
+PIV Flow Visualization (Nd:YAG Laser + sCMOS Camera) | Vortex Flow Analysis  
+Renewable Energy | Battery & Fuel Cell | Additive Manufacturing (3D Printing) | Heat Transfer  
+Air Quality Control (ESP) | High-Voltage Systems  
+PLCs | Lathe | Drill Operation | MATLAB Programming  
 
 ---
 
@@ -14,6 +14,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 [![Education](https://img.shields.io/badge/Education-📖-4CAF50)](#-education)
 [![Research](https://img.shields.io/badge/Research-🔬-008CBA)](#-research-interests)
 [![Experience](https://img.shields.io/badge/Experience-🏭-008CBA)](#-experience)
+
 ---
 
 ## 📄 **Download CV**
@@ -26,7 +27,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 ✅ **PIV Flow Characterization:** Large-Scale Electrohydrodynamic (EHD) Vortex for Particle Clustering in ESP.  
 ✅ **2D Laser Simulation:** Moving laser interaction with airflow and substrate.  
 ✅ **3D Printing Instructor:** Rockford Environmental Science Academy (RESA).  
-✅ **Flow Imaging:** PIV analysis.  
+✅ **Flow Imaging:** PIV analysis.
 
 <table>
   <tr>
@@ -40,29 +41,33 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 
 ## 🎓 **Education**
 - **M.S. Mechanical Engineering**, Northern Illinois University, USA *(2023–Present)* — GPA: **3.91**  
-  - Thesis: *PIV Characterization of a Large-Scale EHD Vortex Confinement Flow in Wire-to-Plate ESP for Particle Agglomeration*
+  - Thesis: *PIV Characterization of a Large-Scale EHD Vortex Confinement Flow in Wire-to-Plate ESP for Particle Agglomeration.*
 
 - **B.E. Mechanical Engineering**, Pulchowk Campus, Tribhuvan University, Nepal *(2014–2018)* — 74%  
-  - Thesis: *Design and Fabrication of Manually Operated Engine-Powered Rice Reaper*
+  - Thesis: *Design and Fabrication of Manually Operated Engine-Powered Rice Reaper.*
 
-<div style="display: flex; gap: 10px;">
-  <img src="Rice reaper design.PNG" alt="Rice Reaper Design" width="390" height="255">
-  <img src="Fabricated rice reaper.PNG" alt="Fabricated Rice Reaper" width="300" height="300">
-</div>
+<table>
+  <tr>
+    <td><img src="Rice reaper design.PNG" alt="Rice Reaper Design" width="390"></td>
+    <td><img src="Fabricated rice reaper.PNG" alt="Fabricated Rice Reaper" width="300"></td>
+  </tr>
+</table>
 
 ---
 
 ## 🔬 **Research Interests**
-- PIV Flow Visualization
-- CFD and FEM Simulation (COMSOL, ANSYS)
-- Solid Modeling (SolidWorks, AutoCAD)
-- Air Quality Control (Electrostatic Precipitators)
-- Renewable Energy Systems (Biogas, Batteries, Fuel Cells)
-- Additive Manufacturing (3D Printing)
+- PIV Flow Visualization.
+- CFD and FEM Simulation (COMSOL, ANSYS).
+- Solid Modeling (SolidWorks, AutoCAD).
+- Air Quality Control (Electrostatic Precipitators).
+- Renewable Energy Systems (Biogas, Batteries, Fuel Cells).
+- Additive Manufacturing (3D Printing).
 
-<div style="display: flex; gap: 10px;">
-  <img src="INdustrial ESP.jpg" alt="Industrial ESP" width="390" height="255">
-</div>
+<table>
+  <tr>
+    <td><img src="INdustrial ESP.jpg" alt="Industrial ESP" width="390"></td>
+  </tr>
+</table>
 
 ---
 
@@ -70,19 +75,23 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 - **Sanjay Dangi** and **E.M. Lee**, *"PIV Characterization of a Large-Scale EHD Vortex Confinement Flow in Wire-to-Plate ESP for Particle Agglomeration,"* American Association for Aerosol Research (AAAR), 2024.
 - **S. Dangi** et al., *"Design and Fabrication of Engine Powered Manually Operated Rice Reaper,"* Research Center for Applied Science and Technology (RECAST), 2018.
 
-<div style="display: flex; gap: 10px;">
-  <img src="Presentation.jpg" alt="Presentation" width="390" height="255">
-</div>
+<table>
+  <tr>
+    <td><img src="Presentation.jpg" alt="Presentation" width="390"></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠 **In Progress**
 - **Thesis + Research Paper:**  
-  *"PIV Characterization of Large-Scale EHD Vortex Flow in Wire-to-Plate ESP for Particle Agglomeration"*
+  *"PIV Characterization of Large-Scale EHD Vortex Flow in Wire-to-Plate ESP for Particle Agglomeration."*
 
-<div style="display: flex; gap: 10px;">
-  <img src="Capture.PNG" alt="Research Image" width="390" height="255">
-</div>
+<table>
+  <tr>
+    <td><img src="Capture.PNG" alt="Research Image" width="390"></td>
+  </tr>
+</table>
 
 ---
 
@@ -90,18 +99,18 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 
 ### **Research Assistant**, Northern Illinois University, IL *(Aug 2023 – May 2024)*  
 - Designed lab-scale **EHD vortex generator** (ESP-based).  
-- PIV Image Processing (PIVview, PIVlab) + MATLAB Data Analysis.
+- PIV Image Processing (PIVview, PIVlab) + MATLAB Data Analysis.  
 - Thesis Research on Large-Scale EHD Vortex for Particle Agglomeration.
 
-<img src="Laser issue.JPG" alt="Laser Experiment" width="390" height="255">
+<img src="Laser issue.JPG" alt="Laser Experiment" width="390">
 
 ### **Project Instructor**, Rockford Environmental Science Academy (RESA)  
 - Taught **3D printing** and **Tinkercad** workshops.  
 - Developed hands-on challenges for students.
 
-### **Mechanical Engineer / Plant In-Charge**, Khilung Kalika Biogas Plant, Nepal *(Aug 2019 – Feb 2022)*  
+### **Mechanical Engineer / Plant In-Charge**, Khilung Kalika Biogas Power Plant, Nepal *(Aug 2019 – Feb 2022)*  
 - Maintenance of **Anaerobic Digester** and **Decantation Unit**.  
-- **Basic programming and maintenance** of **PLC (ABB)** and **SCADA** systems.  
+- Basic programming and maintenance of **PLC (ABB)** and **SCADA** systems.  
 - Supervision of **Chemical Scrubbing Unit** for biogas purification.  
 - Operation and maintenance of **Biogas (1 MW)** and **Diesel Generators (700 kW)**, including **Biogas-Powered Boiler Unit** handling.  
 - Supervised production of **Granular and Liquid Organic Fertilizer**.  
@@ -110,10 +119,11 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 
 ### **Wastewater Treatment Project Lead**, Nepal *(2019 – 2021)*  
 - Led the **installation and testing** of a wastewater treatment plant in collaboration with **Bikon Water Treatment Pvt. Ltd.**  
-- Oversaw **chemical treatment** of wastewater from the ** decantation process**.  
+- Oversaw **chemical treatment** of wastewater from the **decantation process**.  
 - Conducted **lab analysis** on water quality before and after treatment to evaluate effectiveness.
 
-### **Internships:**  
+### **Internship Experiences**
+
 #### **TOYOTA (UTS), Nepal** *(Jan 2018 – Apr 2018)*  
 - Assisted in **general servicing and preventive maintenance** of **internal combustion (IC) engines** across multiple vehicle platforms.  
 - Supported **fault inspection and diagnostics** for **Electric Vehicles (EVs)** and **battery systems**.  
@@ -123,12 +133,13 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 - Participated in the **re-design and optimization** of **plant layouts** to improve production efficiency.  
 - Supported **maintenance and troubleshooting** of **noodle** and **cheeseball** production lines, including associated **boiler** and **diesel generator systems**.  
 - Assisted in **factory line inspection** and **routine equipment health monitoring**.
+
 ---
 
 ## 💻 **Skills**
-- **Programming:** MATLAB, Python (Machine Learning), PLC (ABB), SCADA Systems.  
-- **Software:** SolidWorks, AutoCAD, COMSOL, ANSYS, Git, GitHub, LaTeX, Overleaf, Jupyter Notebook.  
-- **Machines & Tools:** Arduino, Lathe, Drill, Water Jet Cutter, 3D Printer, Laser Engraver, Welding.  
+- **Programming:** MATLAB, Python (Machine Learning), PLC (ABB), SCADA Systems.
+- **Software:** SolidWorks, AutoCAD, COMSOL, ANSYS, Git, GitHub, LaTeX, Overleaf, Jupyter Notebook.
+- **Machines & Tools:** Arduino, Lathe, Drill, Water Jet Cutter, 3D Printer, Laser Engraver, Welding.
 
 ---
 
@@ -138,28 +149,20 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 ---
 
 ## 🚀 **Currently Learning**
-- **Machine Learning (Neural Networks)**
-- **Advanced PLC Programming**
-- **CFD Modeling (COMSOL/ANSYS)**
-- **SolidWorks (CSWA/P Certification)**
+- **Machine Learning (Neural Networks)**.
+- **Advanced PLC Programming**.
+- **CFD Modeling (COMSOL/ANSYS)**.
+- **SolidWorks (CSWA/P Certification)**.
 
 ---
 
 # ⭐ **Connect With Me**
 📩 **Email:** yourname@email.com  
 💼 **LinkedIn:** [LinkedIn Profile](#)  
-📁 **Portfolio:** [Your Website (if any)](#)  
+📁 **Portfolio:** [Your Website (if any)](#)
 
 ---
 
 # 🎯 **How To Use This**
 📌 Download this file as `README.md` and upload it to **your GitHub repository**!  
 🎯 This will be the **homepage of your GitHub profile**, making it look professional!
-
----
-
-✅ **This version is 100% optimized for GitHub**  
-✅ **Looks professional, structured, and easy to read**  
-✅ **Now ready for employers, professors, or collaborators to see your work!**
-
-Would you like help adding **GitHub stats and badges** for extra customization? 🚀😃
