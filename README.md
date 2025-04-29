@@ -43,7 +43,8 @@ PLCs | Lathe/Drill Operation | Programming
 - **B.E. Mechanical Engineering**, Pulchowk Campus, Tribhuvan University, Nepal *(2014–2018)* — 74%  
   - Project: *Design and Fabrication of Manually Operated Engine-Powered Rice Reaper*
 
-<img src="2EHD Cam1_0015.png" alt="3D Printing" width="390" height="255">
+<img src="2EHD Cam1_0015.png" alt="2EHD Cam1_0015" style="transform: rotate(90deg); width: 390px; height: 255px;">
+
 <div style="display: flex; gap: 10px;">
   <img src="Rice reaper design.PNG" alt="Rice Reaper Design" width="390" height="255">
   <img src="Fabricated rice reaper.PNG" alt="Fabricated Rice Reaper" width="300" height="300">
