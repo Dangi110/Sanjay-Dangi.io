@@ -26,13 +26,12 @@ PLCs | Lathe/Drill Operation | Programming
 ✅ **PIV Flow Characterization:** Large-Scale EHD Vortex for Particle Clustering in ESP.  
 ✅ **2D Laser Simulation:** Moving laser interaction with airflow and substrate.  
 ✅ **3D Printing Instructor:** Rockford Environmental Science Academy (RESA).  
-✅ **Microscopy & Flow Imaging:** SEM and PIV analysis.  
+✅ **Flow Imaging:** PIV analysis.  
 
 <div style="display: flex; gap: 10px;">
   <img src="PIV.jpg" alt="PIV Image" width="390" height="255">
   <img src="Untitled...gif" alt="2D Simulation" width="390" height="255">
   <img src="3d print.PNG" alt="3D Printing" width="390" height="255">
-  <img src="SEM.jpeg" alt="SEM Image" width="390" height="255">
 </div>
 
 ---
