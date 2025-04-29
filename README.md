@@ -153,10 +153,10 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
 ---
 
 ## 🚀 **Currently Learning**
-- **Machine Learning (Neural Networks)**.
-- **Advanced PLC Programming**.
-- **CFD Modeling (COMSOL/ANSYS)**.
-- **SolidWorks (CSWA/P Certification)**.
+- 🤖 Machine Learning (Neural Networks)
+- 🔧 Advanced PLC Programming
+- 💨 CFD Modeling (COMSOL/ANSYS)
+- 🛠️ SolidWorks (CSWA/P Certification)
 
 ---
 
