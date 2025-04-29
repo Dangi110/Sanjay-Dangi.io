@@ -32,6 +32,7 @@ PLCs | Lathe/Drill Operation | Programming
   <img src="PIV.jpg" alt="PIV Image" width="390" height="255">
   <img src="Untitled...gif" alt="2D Simulation" width="390" height="255">
   <img src="3d print.PNG" alt="3D Printing" width="390" height="255">
+  <img src="2EHD Cam1_0015.pngG" alt="3D Printing" width="390" height="255">
 </div>
 
 ---
