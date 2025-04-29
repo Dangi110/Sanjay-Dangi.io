@@ -103,7 +103,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 
 ### **Wastewater Treatment Project Lead**, Nepal *(2019 – 2021)*  
 - Led the **installation and testing** of a wastewater treatment plant in collaboration with **Bikon Water Treatment Pvt. Ltd.**  
-- Oversaw **chemical treatment** of wastewater from the **decantation process**.  
+- Oversaw **chemical treatment** of wastewater from the ** slurry decantation process**.  
 - Conducted **lab analysis** on water quality before and after treatment to evaluate effectiveness.
 
 ### **Internships:**  
