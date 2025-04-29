@@ -97,7 +97,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 - Taught **3D printing** and **Tinkercad** workshops.  
 - Developed hands-on challenges for students.
 
-### **Plant Incharge**, Khilung Kalika Biogas Plant, Nepal *(Aug 2024 – Present)*  
+### **Plant Incharge**, Khilung Kalika Biogas Plant, Nepal *(Aug 2019 – Feb 2022)*  
 - Managed **anaerobic digestion systems**, diesel generators, biogas scrubbing.  
 - **PLC and SCADA Operations**.
 
