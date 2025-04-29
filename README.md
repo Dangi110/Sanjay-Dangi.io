@@ -101,6 +101,11 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 - Managed **anaerobic digestion systems**, diesel generators, biogas scrubbing.  
 - **PLC and SCADA Operations**.
 
+### **Wastewater Treatment Project Lead**, Nepal *(2019 – 2021)*  
+- Led the **installation and testing** of a wastewater treatment plant in collaboration with **Bikon Water Treatment Pvt. Ltd.**  
+- Oversaw **chemical treatment** of wastewater from the **decantation process**.  
+- Conducted **lab analysis** on water quality before and after treatment to evaluate effectiveness.
+
 ### **Internships:**  
 - **TOYOTA (UTS), Nepal** *(Maintenance, Servicing, Lean Training)*  
 - **Chaudhary Food Pvt. Ltd., Nepal** *(Factory Time Study, CAD Updates)*
