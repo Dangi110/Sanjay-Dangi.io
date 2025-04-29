@@ -28,11 +28,13 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 ✅ **3D Printing Instructor:** Rockford Environmental Science Academy (RESA).  
 ✅ **Flow Imaging:** PIV analysis.  
 
-<div style="display: flex; gap: 10px;">
-  <img src="PIV.jpg" alt="PIV Image" width="390" height="255">
-  <img src="Untitled...gif" alt="2D Simulation" width="390" height="255">
-  <img src="3d print.PNG" alt="3D Printing" width="390" height="255">
-</div>
+<table>
+  <tr>
+    <td><img src="PIV.jpg" alt="PIV Image" width="390"></td>
+    <td><img src="Untitled...gif" alt="2D Simulation" width="390"></td>
+    <td><img src="3d print.PNG" alt="3D Printing" width="390"></td>
+  </tr>
+</table>
 
 ---
 
@@ -97,7 +99,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 - Taught **3D printing** and **Tinkercad** workshops.  
 - Developed hands-on challenges for students.
 
-### **Plant Incharge**, Khilung Kalika Biogas Plant, Nepal *(Aug 2019 – Feb 2022)*  
+### **Mechanical Engineer / Plant In-Charge**, Khilung Kalika Biogas Plant, Nepal *(Aug 2019 – Feb 2022)*  
 - Maintenance of **Anaerobic Digester** and **Decantation Unit**.  
 - **Basic programming and maintenance** of **PLC (ABB)** and **SCADA** systems.  
 - Supervision of **Chemical Scrubbing Unit** for biogas purification.  
@@ -108,7 +110,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 
 ### **Wastewater Treatment Project Lead**, Nepal *(2019 – 2021)*  
 - Led the **installation and testing** of a wastewater treatment plant in collaboration with **Bikon Water Treatment Pvt. Ltd.**  
-- Oversaw **chemical treatment** of wastewater from the ** slurry decantation process**.  
+- Oversaw **chemical treatment** of wastewater from the ** decantation process**.  
 - Conducted **lab analysis** on water quality before and after treatment to evaluate effectiveness.
 
 ### **Internships:**  
@@ -117,7 +119,7 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 - Supported **fault inspection and diagnostics** for **Electric Vehicles (EVs)** and **battery systems**.  
 - Gained exposure to **LEAN Manufacturing Concepts**, including waste minimization and process optimization.
 
-#### **Chaudhary Groups, Kathmandu, Nepal** *(Jan 2018 – Apr 2018)*  
+#### **Chaudhary Groups, Kathmandu, Nepal** *(May 2018 – Aug 2018)*  
 - Participated in the **re-design and optimization** of **plant layouts** to improve production efficiency.  
 - Supported **maintenance and troubleshooting** of **noodle** and **cheeseball** production lines, including associated **boiler** and **diesel generator systems**.  
 - Assisted in **factory line inspection** and **routine equipment health monitoring**.
