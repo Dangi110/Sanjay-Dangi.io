@@ -11,7 +11,7 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
 ---
 
 ## 📚 **Quick Links**
-[![Education](https://img.shields.io/badge/Education-📖-4CAF50)](#-education)
+[![Education](education.gif)](#-education)
 [![Research](https://img.shields.io/badge/Research-🔬-008CBA)](#-research-interests)
 [![Experience](https://img.shields.io/badge/Experience-🏭-008CBA)](#-experience)
 
