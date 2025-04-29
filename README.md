@@ -112,9 +112,15 @@ PLCs | Lathe | Drill Operation | Matlab Programming
 - Conducted **lab analysis** on water quality before and after treatment to evaluate effectiveness.
 
 ### **Internships:**  
-- **TOYOTA (UTS), Nepal** *(Maintenance, Servicing, Lean Training)*  
-- **Chaudhary Food Pvt. Ltd., Nepal** *(Factory Time Study, CAD Updates)*
+#### **TOYOTA (UTS), Nepal** *(Jan 2018 – Apr 2018)*  
+- Assisted in **general servicing and preventive maintenance** of **internal combustion (IC) engines** across multiple vehicle platforms.  
+- Supported **fault inspection and diagnostics** for **Electric Vehicles (EVs)** and **battery systems**.  
+- Gained exposure to **LEAN Manufacturing Concepts**, including waste minimization and process optimization.
 
+#### **Chaudhary Groups, Kathmandu, Nepal** *(Jan 2018 – Apr 2018)*  
+- Participated in the **re-design and optimization** of **plant layouts** to improve production efficiency.  
+- Supported **maintenance and troubleshooting** of **noodle** and **cheeseball** production lines, including associated **boiler** and **diesel generator systems**.  
+- Assisted in **factory line inspection** and **routine equipment health monitoring**.
 ---
 
 ## 💻 **Skills**
