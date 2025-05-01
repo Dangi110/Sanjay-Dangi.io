@@ -161,12 +161,7 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
 ---
 
 # ⭐ **Connect With Me**
-📩 **Email:** yourname@email.com  
-💼 **LinkedIn:** [LinkedIn Profile](#)  
-📁 **Portfolio:** [Your Website (if any)](#)
+📩 **Email:** dcsanjay77@email.com  
+💼 **LinkedIn:** [[LinkedIn Profile]](https://www.linkedin.com/in/sanjay-dangi-01a0b5147/)(#)  
 
 ---
-
-# 🎯 **How To Use This**
-📌 Download this file as `README.md` and upload it to **your GitHub repository**!  
-🎯 This will be the **homepage of your GitHub profile**, making it look professional!
