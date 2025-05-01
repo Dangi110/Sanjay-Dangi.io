@@ -162,6 +162,6 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
 
 # ⭐ **Connect With Me**
 📩 **Email:** dcsanjay77@email.com  
-💼 **LinkedIn:** [[LinkedIn Profile]](https://www.linkedin.com/in/sanjay-dangi-01a0b5147/)(#)  
+💼 **LinkedIn:** [[LinkedIn Profile]](https://www.linkedin.com/in/sanjay-dangi-01a0b5147/)
 
 ---
