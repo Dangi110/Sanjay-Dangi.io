@@ -135,8 +135,8 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
 - ♻️ Gained exposure to **LEAN Manufacturing Concepts**, including waste minimization and process optimization.
 - <table>
   <tr>
-    <td><img src="20171023_133250.jpg" alt="20171023_133250" width="390"></td>
-    <td><img src="20171025_143001.jpg" alt="20171025_143001" width="300"></td>
+    <td><img src="20171023_133250.jpg" alt="20171023_133250" width="420"></td>
+    <td><img src="20171025_143001.jpg" alt="20171025_143001" width="420"></td>
   </tr>
 </table>
 
