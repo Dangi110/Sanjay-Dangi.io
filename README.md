@@ -133,6 +133,12 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
 - 🔧 Assisted in **general servicing and preventive maintenance** of **internal combustion (IC) engines** across multiple vehicle platforms.  
 - ⚡ Supported **fault inspection and diagnostics** for **Electric Vehicles (EVs)** and **battery systems**.  
 - ♻️ Gained exposure to **LEAN Manufacturing Concepts**, including waste minimization and process optimization.
+- <table>
+  <tr>
+    <td><img src="20171023_133250.jpg" alt="20171023_133250" width="390"></td>
+    <td><img src="20171025_143001.jpg" alt="20171025_143001" width="300"></td>
+  </tr>
+</table>
 
 #### 🏭 **Chaudhary Groups, Kathmandu, Nepal** *(May 2018 – Aug 2018)*  
 - 🏗️ Participated in the **re-design and optimization** of **plant layouts** to improve production efficiency.  
