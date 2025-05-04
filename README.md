@@ -4,7 +4,8 @@
 ## 🏆 Areas of Interest:
 Design and Analysis of Mechanical Systems | CAD-CAM | FEM | CFD  
 PIV Flow Visualization (Nd:YAG Laser + sCMOS Camera) | Vortex Flow Analysis  
-Renewable Energy | Battery & Fuel Cell | Additive Manufacturing (3D Printing) | Heat Transfer  
+Renewable Energy | Organic Fertilizer Production | Anaerobic Digester 
+Battery & Fuel Cell | Additive Manufacturing (3D Printing) | Heat Transfer  
 Air Quality Control (ESP) | High-Voltage Systems  
 PLCs | Lathe | Drill Operation | MATLAB Programming  
 
