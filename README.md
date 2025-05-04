@@ -138,8 +138,8 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
 ### 👨‍🔧 **Internship Experiences**
 
 #### 🚗 **TOYOTA (UTS), Nepal** *(Jan 2018 – Apr 2018)*  
-- 🔧 Assisted in **general servicing and preventive maintenance** of **internal combustion (IC) engines** across multiple vehicle platforms.  
-- ⚡ Supported **fault inspection and diagnostics** for **Electric Vehicles (EVs)** and **battery systems**.  
+- 🔧 Assisted in **general servicing and preventive maintenance** of **Internal Combustion (IC) engines** across multiple vehicle platforms.  
+- ⚡ Supported **fault inspection and diagnostics** for **Electric Vehicles (EVs)** and **Battery Systems**.  
 - ♻️ Gained exposure to **LEAN Manufacturing Concepts**, including waste minimization and process optimization.
 - <table>
   <tr>
