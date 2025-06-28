@@ -89,7 +89,7 @@
 <table>
   <tr>
     <td><img src="hydroformer.PNG" alt="3D Printing" width="450"></td>
-    <td><img src="hydroformera.PNG" alt="3D Printing" width="450"></td>
+    <td><img src="Hydroformera.PNG" alt="3D Printing" width="450"></td>
   </tr>
 </table>
 ---
