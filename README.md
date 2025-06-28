@@ -1,13 +1,39 @@
 # 🏗️ Mechanical Engineer  
 ### 🚀 Portfolio | Research | Engineering  
 
-## 🏆 Areas of Interest:
-Design and Analysis of Mechanical Systems | CAD-CAM | FEM | CFD  
-PIV Flow Visualization (Nd:YAG Laser + sCMOS Camera) | Vortex Flow Analysis  
-Renewable Energy | Organic Fertilizer Production | Anaerobic Digester   
-Battery & Fuel Cell | Additive Manufacturing (3D Printing) | Heat Transfer  
-Air Quality Control (ESP) | High-Voltage Systems  
-PLCs | Lathe | Drill Operation | MATLAB Programming  
+## 🏆 Areas of Interest
+
+### 💡 Mechanical Design & Simulation
+- Design and Analysis of Mechanical Systems  
+- Computer-Aided Design (CAD), Computer-Aided Manufacturing (CAM)  
+- Finite Element Method (FEM), Computational Fluid Dynamics (CFD)  
+
+### 🔬 Experimental Techniques & Flow Diagnostics
+- PIV Flow Visualization (Nd:YAG Laser & sCMOS Camera)  
+- Vortex Flow Analysis and Electrohydrodynamic (EHD) Studies  
+
+### 🌱 Sustainable Technologies
+- Renewable Energy Systems  
+- Organic Fertilizer Production via Anaerobic Digesters  
+
+### ⚙️ Emerging Technologies & Manufacturing
+- Battery and Fuel Cell Technologies  
+- Additive Manufacturing (3D Printing)  
+- Heat Transfer Systems  
+
+### 🌬️ Environmental & Electrical Systems
+- Air Quality Control (Electrostatic Precipitators - ESP)  
+- High-Voltage Power Systems  
+
+### 🛠️ Technical Skills & Tools
+- Programmable Logic Controllers (PLCs)  
+- Lathe & Drilling Machine Operations  
+- MATLAB Programming  
+
+### 🏭 Industrial Exposure
+- Production Plant Management  
+- Automotive Systems
+
 
 ---
 
