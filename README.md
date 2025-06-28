@@ -29,7 +29,7 @@
 
 ### 🧠 Research & Critical Thinking
 - Research on EHD Vortex Flow & Particle Agglomeration at Northern Illinois University  
-- Poster Presentation: Undergraduate Renewable Energy Project  
+- Poster Presentation: Undergraduate Thesis on Agricultural Mechanization — Design, Analysis & Fabrication
 - Podium Presentation: Master’s Thesis on Large-Scale EHD Vortex Flow Characterization  
 - Strong analytical and scientific writing skills for data-driven conclusions
 
