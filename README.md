@@ -3,6 +3,8 @@
 
 ## 🏆 Areas of Interest
 
+## 🏆 Areas of Interest
+
 ### 💡 Mechanical Design & Simulation
 - Design and Analysis of Mechanical Systems  
 - Computer-Aided Design (CAD), Computer-Aided Manufacturing (CAM)  
@@ -25,6 +27,12 @@
 - Air Quality Control (Electrostatic Precipitators - ESP)  
 - High-Voltage Power Systems  
 
+### 🧠 Research & Critical Thinking
+- Research on EHD Vortex Flow & Particle Agglomeration at Northern Illinois University  
+- Poster Presentation: Undergraduate Renewable Energy Project  
+- Podium Presentation: Master’s Thesis on Large-Scale EHD Vortex Flow Characterization  
+- Strong analytical and scientific writing skills for data-driven conclusions
+
 ### 🛠️ Technical Skills & Tools
 - Programmable Logic Controllers (PLCs)  
 - Lathe & Drilling Machine Operations  
@@ -33,6 +41,7 @@
 ### 🏭 Industrial Exposure
 - Production Plant Management  
 - Automotive Systems
+
 
 
 ---
