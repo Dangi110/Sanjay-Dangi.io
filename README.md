@@ -53,7 +53,7 @@ PLCs | Lathe | Drill Operation | MATLAB Programming
 
 <table>
   <tr>
-    <td><img src="hydroformer.PNG" alt="3D Printing" width="390"></td>
+    <td><img src="hydroformer.PNG" alt="3D Printing" width="450"></td>
   </tr>
 </table>
 ---
