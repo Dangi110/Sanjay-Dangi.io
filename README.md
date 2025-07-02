@@ -224,7 +224,12 @@
 
 <table>
   <tr>
-    <td><img src="Capture.PNG" alt="Research Image" width="390"></td>
+    <td>
+      <figure>
+      </figure><img src="Capture.PNG" alt="Research Image" width="390"><br>
+      <figcaption>Labrotary Setup for Vortex Generator</figcaption>
+    </figure>
+    </td>
   </tr>
 </table>
 
