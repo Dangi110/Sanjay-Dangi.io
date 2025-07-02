@@ -72,20 +72,18 @@
 ✅ **3D Printing Instructor:** Rockford Environmental Science Academy (RESA).  
 ✅ **Flow Imaging:** PIV analysis.
 
-
-
 <table>
   <tr>
     <td>
       <figure>
-        <img src="PIV.jpg" alt="PIV Image" width="550">
-        <figcaption>PIV Image</figcaption>
+        <img src="PIV.jpg" alt="PIV Image" width="350"><br>
+        <figcaption> Components of Particle Image Velocimetry (PIV)</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="350">
-        <figcaption>Vector Flow Field at EHD# = 1.68 \times 10^5 </figcaption>
+        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="250"><br>
+        <figcaption>Post-processed Image for Vector Flow Field at EHD# = 1.68 x 10^5</figcaption>
       </figure>
     </td>
   </tr>
@@ -95,14 +93,14 @@
   <tr>
     <td>
       <figure>
-        <img src="3d print.PNG" alt="3D Printing" width="550">
-        <figcaption>3D Printed Object</figcaption>
+        <img src="3d print.PNG" alt="3D Printing" width="450"><br>
+        <figcaption>3D Printer</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="Untitled...gif" alt="2D Simulation" width="550">
-        <figcaption>2D Simulation (GIF)</figcaption>
+        <img src="Untitled...gif" alt="2D Simulation" width="390"><br>
+               <figcaption>COMSOL 2D Simulation of Pulsating Laser on Alumina substrate(GIF)</figcaption>
       </figure>
     </td>
   </tr>
@@ -112,13 +110,13 @@
   <tr>
     <td>
       <figure>
-        <img src="hydroformer.PNG" alt="Hydroformer View 1" width="450">
+        <img src="hydroformer.PNG" alt="Hydroformer View 1" width="450"><br>
         <figcaption>Hydroforming Machine - View 1</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="Hydroformera.PNG" alt="Hydroformer View 2" width="450">
+        <img src="Hydroformera.PNG" alt="Hydroformer View 2" width="450"><br>
         <figcaption>Hydroforming Machine - View 2</figcaption>
       </figure>
     </td>
@@ -129,13 +127,13 @@
   <tr>
     <td>
       <figure>
-        <img src="Question4_Top view.png" alt="Top View FEM" width="550">
+        <img src="Question4_Top view.png" alt="Top View FEM" width="550"><br>
         <figcaption>Top View of FEM Mesh</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="Question9_nodal_diff_Mesh1_Von-Mi_zoomed_PIC.png" alt="Von Mises Plot" width="550">
+        <img src="Question9_nodal_diff_Mesh1_Von-Mi_zoomed_PIC.png" alt="Von Mises Plot" width="550"><br>
         <figcaption>Zoomed Von Mises Stress Plot</figcaption>
       </figure>
     </td>
@@ -146,13 +144,13 @@
   <tr>
     <td>
       <figure>
-        <img src="Side View.png" alt="Side View" width="550">
+        <img src="Side View.png" alt="Side View" width="550"><br>
         <figcaption>Side View of Model</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="wrapping automation with big base.JPG" alt="Wrapping Automation" width="550">
+        <img src="wrapping automation with big base.JPG" alt="Wrapping Automation" width="550"><br>
         <figcaption>Wrapping Automation Setup</figcaption>
       </figure>
     </td>
