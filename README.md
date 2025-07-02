@@ -103,7 +103,7 @@
 <table>
   <tr>
         <td><img src="Side View.png" alt="3D Printing" width="550"></td>
-    <td><img src="  wrapping automation with big base.JPG" alt="3D Printing" width="550"></td>
+    <td><img src="wrapping automation with big base.JPG" alt="3D Printing" width="550"></td>
   </tr>
 </table>
 ---
