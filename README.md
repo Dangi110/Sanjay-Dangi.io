@@ -97,7 +97,6 @@
   <tr>
     <td><img src="Question4_Top view.png" alt="3D Printing" width="450"></td>
     <td><img src="Question9_nodal_diff_Mesh1_Von-Mi_zoomed_PIC.png" alt="3D Printing" width="450"></td>
-        <td><img src="Side View.png" alt="3D Printing" width="450"></td>
   </tr>
 </table>
 
