@@ -100,6 +100,12 @@
         <td><img src="Side View.png" alt="3D Printing" width="450"></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+        <td><img src="Side View.png" alt="3D Printing" width="450"></td>
+  </tr>
+</table>
 ---
 
 ## 🎓 **Education**
