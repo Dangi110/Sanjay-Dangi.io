@@ -74,38 +74,89 @@
 
 <table>
   <tr>
-    <td><img src="PIV.jpg" alt="PIV Image" width="390"></td>
-     <td><img src="2EHD Cam1_0015.png" alt="2EHD Cam1_0015" width="200"></td>
-   "390"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="3d print.PNG" alt="3D Printing" width="390"></td>
-    <td><img src="Untitled...gif" alt="2D Simulation" width=
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="hydroformer.PNG" alt="3D Printing" width="450"></td>
-    <td><img src="Hydroformera.PNG" alt="3D Printing" width="450"></td>
+    <td>
+      <figure>
+        <img src="PIV.jpg" alt="PIV Image" width="390">
+        <figcaption>PIV Image</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1_0015" width="200">
+        <figcaption>2EHD Cam1 Frame</figcaption>
+      </figure>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="Question4_Top view.png" alt="3D Printing" width="550"></td>
-    <td><img src="Question9_nodal_diff_Mesh1_Von-Mi_zoomed_PIC.png" alt="3D Printing" width="550"></td>
+    <td>
+      <figure>
+        <img src="3d print.PNG" alt="3D Printing" width="390">
+        <figcaption>3D Printed Object</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="Untitled...gif" alt="2D Simulation" width="390">
+        <figcaption>2D Simulation (GIF)</figcaption>
+      </figure>
+    </td>
   </tr>
 </table>
 
 <table>
   <tr>
-        <td><img src="Side View.png" alt="3D Printing" width="550"></td>
-    <td><img src="wrapping automation with big base.JPG" alt="3D Printing" width="550"></td>
+    <td>
+      <figure>
+        <img src="hydroformer.PNG" alt="Hydroformer 1" width="450">
+        <figcaption>Hydroforming Machine - View 1</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="Hydroformera.PNG" alt="Hydroformer 2" width="450">
+        <figcaption>Hydroforming Machine - View 2</figcaption>
+      </figure>
+    </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="Question4_Top view.png" alt="Top View FEM" width="550">
+        <figcaption>Top View of FEM Mesh</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="Question9_nodal_diff_Mesh1_Von-Mi_zoomed_PIC.png" alt="Zoomed Von Mises" width="550">
+        <figcaption>Zoomed Von Mises Stress Plot</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="Side View.png" alt="Side View" width="550">
+        <figcaption>Side View of Model</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="wrapping automation with big base.JPG" alt="Wrapping Automation" width="550">
+        <figcaption>Wrapping Automation Setup</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🎓 **Education**
