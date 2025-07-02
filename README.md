@@ -189,7 +189,12 @@
 
 <table>
   <tr>
-    <td><img src="INdustrial ESP.jpg" alt="Industrial ESP" width="390"></td>
+    <td>
+     <figure>
+    <img src="INdustrial ESP.jpg" alt="Industrial ESP" width="390"><br>
+    <figcaption>Industrial Scale ESP</figcaption>
+     </figure>
+    </td>
   </tr>
 </table>
 
@@ -201,7 +206,13 @@
 
 <table>
   <tr>
-    <td><img src="Presentation.jpg" alt="Presentation" width="390"></td>
+    <td>
+      <figure>
+    <img src="Presentation.jpg" alt="Presentation" width="550"><br>
+    <figcaption>Me Presenting at AAAR Conference (2024)</figcaption>    
+    </figure>
+    </td>
+    </td>
   </tr>
 </table>
 
