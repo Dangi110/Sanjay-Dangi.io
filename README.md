@@ -106,13 +106,13 @@
   <tr>
     <td>
       <figure>
-        <img src="PIV.jpg" alt="PIV Image" width="390">
+        <img src="PIV.jpg" alt="PIV Image" width="450">
         <figcaption>PIV Image</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="200">
+        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="450">
         <figcaption>2EHD Cam1 Frame</figcaption>
       </figure>
     </td>
@@ -123,7 +123,7 @@
   <tr>
     <td>
       <figure>
-        <img src="3d print.PNG" alt="3D Printing" width="390">
+        <img src="3d print.PNG" alt="3D Printing" width="450">
         <figcaption>3D Printed Object</figcaption>
       </figure>
     </td>
