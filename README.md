@@ -72,18 +72,20 @@
 ✅ **3D Printing Instructor:** Rockford Environmental Science Academy (RESA).  
 ✅ **Flow Imaging:** PIV analysis.
 
+
+
 <table>
   <tr>
     <td>
       <figure>
-        <img src="PIV.jpg" alt="PIV Image" width="300">
+        <img src="PIV.jpg" alt="PIV Image" width="550">
         <figcaption>PIV Image</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="300">
-        <figcaption>2EHD Cam1 Frame</figcaption>
+        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="350">
+        <figcaption>Vector Flow Field at EHD# = 1.68 \times 10^5 </figcaption>
       </figure>
     </td>
   </tr>
@@ -93,13 +95,13 @@
   <tr>
     <td>
       <figure>
-        <img src="3d print.PNG" alt="3D Printing" width="450">
+        <img src="3d print.PNG" alt="3D Printing" width="550">
         <figcaption>3D Printed Object</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="Untitled...gif" alt="2D Simulation" width="390">
+        <img src="Untitled...gif" alt="2D Simulation" width="550">
         <figcaption>2D Simulation (GIF)</figcaption>
       </figure>
     </td>
