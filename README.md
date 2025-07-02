@@ -72,47 +72,17 @@
 ✅ **3D Printing Instructor:** Rockford Environmental Science Academy (RESA).  
 ✅ **Flow Imaging:** PIV analysis.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Image Table with Captions</title>
-  <style>
-    figure {
-      text-align: center;
-      margin: 0;
-    }
-
-    figcaption {
-      font-size: 14px;
-      font-style: italic;
-      color: #555;
-      text-align: center;
-      margin-top: 5px;
-    }
-
-    table {
-      margin-bottom: 20px;
-    }
-
-    td {
-      padding: 10px;
-    }
-  </style>
-</head>
-<body>
-
 <table>
   <tr>
     <td>
       <figure>
-        <img src="PIV.jpg" alt="PIV Image" width="450">
+        <img src="PIV.jpg" alt="PIV Image" width="300">
         <figcaption>PIV Image</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="450">
+        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="300">
         <figcaption>2EHD Cam1 Frame</figcaption>
       </figure>
     </td>
