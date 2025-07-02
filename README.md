@@ -72,6 +72,36 @@
 ✅ **3D Printing Instructor:** Rockford Environmental Science Academy (RESA).  
 ✅ **Flow Imaging:** PIV analysis.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Table with Captions</title>
+  <style>
+    figure {
+      text-align: center;
+      margin: 0;
+    }
+
+    figcaption {
+      font-size: 14px;
+      font-style: italic;
+      color: #555;
+      text-align: center;
+      margin-top: 5px;
+    }
+
+    table {
+      margin-bottom: 20px;
+    }
+
+    td {
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
 <table>
   <tr>
     <td>
@@ -82,7 +112,7 @@
     </td>
     <td>
       <figure>
-        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1_0015" width="200">
+        <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="200">
         <figcaption>2EHD Cam1 Frame</figcaption>
       </figure>
     </td>
@@ -110,13 +140,13 @@
   <tr>
     <td>
       <figure>
-        <img src="hydroformer.PNG" alt="Hydroformer 1" width="450">
+        <img src="hydroformer.PNG" alt="Hydroformer View 1" width="450">
         <figcaption>Hydroforming Machine - View 1</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="Hydroformera.PNG" alt="Hydroformer 2" width="450">
+        <img src="Hydroformera.PNG" alt="Hydroformer View 2" width="450">
         <figcaption>Hydroforming Machine - View 2</figcaption>
       </figure>
     </td>
@@ -133,7 +163,7 @@
     </td>
     <td>
       <figure>
-        <img src="Question9_nodal_diff_Mesh1_Von-Mi_zoomed_PIC.png" alt="Zoomed Von Mises" width="550">
+        <img src="Question9_nodal_diff_Mesh1_Von-Mi_zoomed_PIC.png" alt="Von Mises Plot" width="550">
         <figcaption>Zoomed Von Mises Stress Plot</figcaption>
       </figure>
     </td>
@@ -156,6 +186,10 @@
     </td>
   </tr>
 </table>
+
+</body>
+</html>
+
 
 ---
 
