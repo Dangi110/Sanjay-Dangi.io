@@ -161,6 +161,23 @@
 </html>
 
 
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="Surface Temperature .png" alt="PIV Image" width="350"><br>
+        <figcaption> Surface Temperature </figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="Temp Velocity Temp.png" alt="2EHD Cam1 Frame" width="250"><br>
+        <figcaption>Temp Velocity Temp</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🎓 **Education**
