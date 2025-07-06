@@ -184,7 +184,29 @@
 </table>
 
 
-h1 Temperature.png
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="h2 Temp.png" alt="PIV Image" width="350"><br>
+        <figcaption> Temperature at h2(W/(m²·K)) </figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="k1 Teemp.png" alt="2EHD Cam1 Frame" width="250"><br>
+        <figcaption>Temperature at K1(W/(m·K))</figcaption>
+      </figure>
+    </td>
+        <td>
+      <figure>
+        <img src="k2 Temp.png" alt="PIV Image" width="350"><br>
+        <figcaption> Temperature at K2(W/(m·K)) </figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🎓 **Education**
