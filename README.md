@@ -281,7 +281,7 @@
 
 ---
 
-## 🏢 **Experience**
+## 🏢 **Experiences**
 
 ### 🧪 **Research Assistant**, Northern Illinois University, IL *(Aug 2023 – May 2024)*  
 - 🔬 Designed lab-scale **EHD vortex generator** (ESP-based).  
