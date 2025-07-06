@@ -175,9 +175,18 @@
         <figcaption>Temp Velocity Temp</figcaption>
       </figure>
     </td>
+
+        <td>
+      <figure>
+        <img src="h1 Temperature.png" alt="PIV Image" width="350"><br>
+        <figcaption> Temperature at h1(W/(m²·K)) </figcaption>
+      </figure>
+    </td>
   </tr>
 </table>
 
+
+h1 Temperature.png
 ---
 
 ## 🎓 **Education**
