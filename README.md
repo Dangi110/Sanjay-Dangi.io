@@ -241,6 +241,13 @@
     <figcaption>Industrial Scale ESP</figcaption>
      </figure>
     </td>
+    <td>
+     <figure>
+    <img src="IMG_0294.HEIC" alt="Industrial ESP" width="390"><br>
+    <figcaption>STEM demonstration of simplified ionization setup</figcaption>
+     </figure>
+    </td>
+    
   </tr>
 </table>
 
