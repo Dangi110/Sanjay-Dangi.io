@@ -336,7 +336,7 @@
 ---
 
 ## 💻 **Skills**
-- **Programming:** MATLAB, Python (Machine Learning), PLC (ABB), SCADA Systems.  
+- **Programming:** MATLAB, Python (Machine Learning), PLC (ABB), Siemens STEP-7, SCADA Systems.  
 - **Software:** SolidWorks, AutoCAD, COMSOL, ANSYS, Git, GitHub, LaTeX, Overleaf, Jupyter Notebook.  
 - **Machines & Tools:** Arduino, Lathe, Drill, Water Jet Cutter, 3D Printer, Laser Engraver, Welding.
 
