@@ -283,7 +283,16 @@
 - 📸 PIV Image Processing (PIVview, PIVlab) + MATLAB Data Analysis.  
 - 📘 Thesis Research on Large-Scale EHD Vortex for Particle Agglomeration.
 
-<img src="Laser issue.JPG" alt="Laser Experiment" width="390">
+  <table>
+  <tr>
+    <td>
+      <figure>
+      </figure><img src="Laser issue.JPG" alt="Laser Experiment" width="390"><br>
+      <figcaption>3D CAD Model for Vortex Generator Integrated with ESP and Optimized for PIV Setup Compatibility</figcaption>
+    </figure>
+    </td>
+  </tr>
+</table>
 
 ### 👨‍🏫 **Project Instructor**, Rockford Environmental Science Academy (RESA)  
 - 🖨️ Taught **3D printing** and **Tinkercad** workshops.  
