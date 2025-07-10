@@ -171,7 +171,7 @@
     <td>
       <figure>
         <img src="Temp Velocity Temp.png" alt="2EHD Cam1 Frame" width="250"><br>
-        <figcaption>Temp Velocity Temp</figcaption>
+        <figcaption>Velocity Field and Temperature Profile</figcaption>
       </figure>
     </td>
         <td>
