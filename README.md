@@ -196,8 +196,18 @@
 
 <table>
   <tr>
-    <td><img src="Rice reaper design.PNG" alt="Rice Reaper Design" width="390"></td>
-    <td><img src="Fabricated rice reaper.PNG" alt="Fabricated Rice Reaper" width="300"></td>
+    <td>
+      <figure>
+      <img src="Rice reaper design.PNG" alt="Rice Reaper Design" width="390"><br>
+          <figcaption>3D SolidWorks Model of Rice Reaper</figcaption>
+     </figure>
+    </td>
+    <td>
+      <figure>
+      <img src="Fabricated rice reaper.PNG" alt="Fabricated Rice Reaper" width="300"><br>
+        <figcaption>Fabricated Rice Reaper</figcaption>
+     </figure>
+    </td>
   </tr>
 </table>
 
