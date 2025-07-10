@@ -221,7 +221,7 @@
     </td>
     <td>
      <figure>
-    <img src="IMG_0294.HEIC" alt="Industrial ESP" width="390"><br>
+    <img src="IMG_0294.jpg" alt="Industrial ESP" width="390"><br>
     <figcaption>STEM demonstration of simplified ionization and air cleaning setup</figcaption>
      </figure>
     </td>
