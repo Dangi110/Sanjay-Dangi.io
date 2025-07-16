@@ -282,8 +282,7 @@
 - 🔬 Designed lab-scale **EHD vortex generator** (ESP-based).  
 - 📸 PIV Image Processing (PIVview, PIVlab) + MATLAB Data Analysis.  
 - 📘 Thesis Research on Large-Scale EHD Vortex for Particle Agglomeration.
-
-  <table>
+ <table>
   <tr>
     <td>
       <figure>
