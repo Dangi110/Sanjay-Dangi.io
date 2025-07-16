@@ -288,7 +288,7 @@
     <td>
       <figure>
       </figure><img src="Laser issue.JPG" alt="Laser Experiment" width="390"><br>
-      <figcaption>3D CAD Model for Vortex Generator Integrated with ESP and Optimized for PIV Setup Compatibility</figcaption>
+      <figcaption>3D CAD Model for Vortex Generator Integrated with <br> ESP and Optimized for PIV Setup Compatibility</figcaption>
     </figure>
     </td>
   </tr>
