@@ -293,7 +293,7 @@
   </tr>
 </table>
 
-### 👨‍🏫 **Project Instructor**, Rockford Environmental Science Academy (RESA)  
+### 👨‍🏫 **Project Instructor**, Rockford Environmental Science Academy (RESA)  *(Jan 2024 – Dec 2024)* 
 - 🖨️ Taught **3D printing** and **Tinkercad** workshops.  
 - 🧠 Developed hands-on challenges for students.
 
