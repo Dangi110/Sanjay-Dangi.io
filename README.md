@@ -54,8 +54,8 @@
   <a href="#-research-interests">
     <img src="https://img.shields.io/badge/Research-🔬-008CBA" alt="Research Badge">
   </a>  
-  <a href="#-experience">
-    <img src="https://img.shields.io/badge/Experience-🏭-008CBA" alt="Experience Badge">
+  <a href="#-experiences">
+    <img src="https://img.shields.io/badge/Experiences-🏭-008CBA" alt="Experiences Badge">
   </a>
 </div>
 
