@@ -353,7 +353,7 @@
     </td>
     <td>
       <figure>
-        <img src="smaller_2.bmp" alt="AI2" width="250"><br>
+        <img src="smaller_2.bmp" alt="AI2" width="350"><br>
         <figcaption>2</figcaption>
       </figure>
     </td>
@@ -375,7 +375,7 @@
     </td>
     <td>
       <figure>
-        <img src="smaller_5.bmp" alt="AI2" width="250"><br>
+        <img src="smaller_5.bmp" alt="AI2" width="350"><br>
         <figcaption>2</figcaption>
       </figure>
     </td>
@@ -397,7 +397,7 @@
     </td>
     <td>
       <figure>
-        <img src="smaller_8.bmp" alt="AI2" width="250"><br>
+        <img src="smaller_8.bmp" alt="AI2" width="350"><br>
         <figcaption>2</figcaption>
       </figure>
     </td>
