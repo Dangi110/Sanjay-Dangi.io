@@ -347,29 +347,7 @@
   <tr>
     <td>
       <figure>
-        <img src="smaller.bmp" alt="AI1" width="350"><br>
-        <figcaption> 1 </figcaption>
-      </figure>
-    </td>
-    <td>
-      <figure>
-        <img src="smaller_2.bmp" alt="AI2" width="350"><br>
-        <figcaption>2</figcaption>
-      </figure>
-    </td>
-        <td>
-      <figure>
-        <img src="smaller_3.bmp" alt="AI3" width="350"><br>
-        <figcaption> 3 </figcaption>
-      </figure>
-    </td>
- </tr>
-</table>
-   <table>
-  <tr> 
-     <td>
-      <figure>
-        <img src="smaller_4.bmp" alt="AI1" width="350"><br>
+        <img src="smaller_2.bmp" alt="AI1" width="350"><br>
         <figcaption> 1 </figcaption>
       </figure>
     </td>
@@ -381,7 +359,7 @@
     </td>
         <td>
       <figure>
-        <img src="smaller_6.bmp" alt="AI3" width="350"><br>
+        <img src="smaller.bmp" alt="AI3" width="350"><br>
         <figcaption> 3 </figcaption>
       </figure>
     </td>
@@ -391,13 +369,35 @@
   <tr> 
      <td>
       <figure>
-        <img src="smaller_7.bmp" alt="AI1" width="350"><br>
+        <img src="smaller_3.bmp" alt="AI1" width="350"><br>
         <figcaption> 1 </figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="smaller_8.bmp" alt="AI2" width="350"><br>
+        <img src="smaller_4.bmp" alt="AI2" width="350"><br>
+        <figcaption>2</figcaption>
+      </figure>
+    </td>
+        <td>
+      <figure>
+        <img src="smaller_8.bmp" alt="AI3" width="350"><br>
+        <figcaption> 3 </figcaption>
+      </figure>
+    </td>
+ </tr>
+</table>
+   <table>
+  <tr> 
+     <td>
+      <figure>
+        <img src="smaller_6.bmp" alt="AI1" width="350"><br>
+        <figcaption> 1 </figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="smaller_7.bmp" alt="AI2" width="350"><br>
         <figcaption>2</figcaption>
       </figure>
     </td>
