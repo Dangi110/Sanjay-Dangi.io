@@ -341,7 +341,17 @@
 - 🥇 Undergraduate Research Grant, **RECAST, Nepal**.
 
 ---
+## 🏆 **Certifications**
+- 🥇 Machine Learning
+   <table>
+  <tr>
+    <td><img src="smaller.bmp" alt="20171025_143001" width="420"></td>
+  </tr>
+</table>
 
+
+
+---
 ## 🚀 **Currently Learning**
 - 🤖 Machine Learning (Neural Networks)  
 - 🔧 Advanced PLC Programming  
