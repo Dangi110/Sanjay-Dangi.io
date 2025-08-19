@@ -343,12 +343,28 @@
 ---
 ## 🏆 **Certifications**
 - 🥇 Machine Learning
-   <table>
+<table>
   <tr>
-    <td><img src="smaller.bmp" alt="20171025_143001" width="420"></td>
+    <td>
+      <figure>
+        <img src="smaller.bmp" alt="PIV Image" width="350"><br>
+        <figcaption> 1 </figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="smaller_1.bmp" alt="2EHD Cam1 Frame" width="250"><br>
+        <figcaption>2</figcaption>
+      </figure>
+    </td>
+        <td>
+      <figure>
+        <img src="smaller_2.bmp" alt="PIV Image" width="350"><br>
+        <figcaption> 3 </figcaption>
+      </figure>
+    </td>
   </tr>
 </table>
-
 
 
 ---
