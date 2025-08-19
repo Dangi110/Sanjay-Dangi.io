@@ -363,6 +363,10 @@
         <figcaption> 3 </figcaption>
       </figure>
     </td>
+ </tr>
+</table>
+   <table>
+  <tr> 
      <td>
       <figure>
         <img src="smaller_4.bmp" alt="AI1" width="350"><br>
@@ -381,6 +385,10 @@
         <figcaption> 3 </figcaption>
       </figure>
     </td>
+ </tr>
+</table>
+   <table>
+  <tr> 
      <td>
       <figure>
         <img src="smaller_7.bmp" alt="AI1" width="350"><br>
