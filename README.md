@@ -1,6 +1,25 @@
 # 🏗️ Mechanical Engineer  
 ### 🚀 Portfolio | Research | Engineering  
 
+## 📚 **Quick Links**
+
+<div style="font-size: 1.4em;">
+  <a href="#-education">
+    <img src="https://img.shields.io/badge/Education-📖-4CAF50" alt="Education Badge">
+  </a>  
+  <a href="#-research-interests">
+    <img src="https://img.shields.io/badge/Research-🔬-008CBA" alt="Research Badge">
+  </a>  
+  <a href="#-experiences">
+    <img src="https://img.shields.io/badge/Experiences-🏭-008CBA" alt="Experiences Badge">
+  </a>
+</div>
+
+## 📄 **Download CV**
+📌 [Download My CV](./CV_NOT.pdf)
+
+---
+
 
 ## 🏆 Areas of Interest
 
@@ -42,25 +61,6 @@
 - Automotive Systems
 
 
-
----
-
-## 📚 **Quick Links**
-
-<div style="font-size: 1.4em;">
-  <a href="#-education">
-    <img src="https://img.shields.io/badge/Education-📖-4CAF50" alt="Education Badge">
-  </a>  
-  <a href="#-research-interests">
-    <img src="https://img.shields.io/badge/Research-🔬-008CBA" alt="Research Badge">
-  </a>  
-  <a href="#-experiences">
-    <img src="https://img.shields.io/badge/Experiences-🏭-008CBA" alt="Experiences Badge">
-  </a>
-</div>
-
-## 📄 **Download CV**
-📌 [Download My CV](./CV_NOT.pdf)
 
 ---
 
