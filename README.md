@@ -204,7 +204,7 @@
     </td>
     <td>
       <figure>
-      <img src="Fabricated rice reaper.PNG" alt="Fabricated Rice Reaper" width="300"><br>
+      <img src="Fabricated rice reaper.png" alt="Fabricated Rice Reaper" width="300"><br>
         <figcaption>Fabricated Rice Reaper</figcaption>
      </figure>
     </td>
