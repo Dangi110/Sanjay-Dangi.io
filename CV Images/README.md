@@ -306,7 +306,7 @@
 - 📋 Coordinated course evaluations and supported accreditation-related activities to maintain academic standards and improve learning outcomes.
 
 
-### 👨‍🏫 **Project Instructor**, Rockford Environmental Science Academy (RESA)  *(Jan 2024 – Dec 2024)* 
+### 👨‍🏫 **Project Assistant**, Rockford Environmental Science Academy (RESA)  *(Jan 2024 – Dec 2024)* 
 - 🖨️ Taught **3D printing** and **Tinkercad** workshops.  
 - 🧠 Developed hands-on challenges for students.
 
