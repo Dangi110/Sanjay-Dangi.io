@@ -277,11 +277,16 @@
 ---
 
 ## 🏢 **Experiences**
+ 
+### 🧪 **Graduate Research Assistant**, Northern Illinois University *(Aug 2023 – Dec 2025)*  
+- 🌪️ Conducted research on **electrohydrodynamic (EHD) flows** to generate large-scale vortices for sub-micron particle confinement and agglomeration via **non-thermal plasma (NTP)** effects.  
+- 🛠️ Designed and fabricated an **ESP-integrated vortex generator** using **SolidWorks** and precision machining to study flow dynamics in electrically energized channels.  
+- 📸 Applied **2D–2C Particle Image Velocimetry (PIV)** to visualize vortex flow fields seeded with **1 µm DEHS tracer particles**, illuminated by a **1 mm Nd:YAG laser sheet**.  
+- 🧪 Developed experimental protocols for **ESP operation**, **PIV/PTV measurements**, and controlled particle sampling using **PM sensors** to quantify particle agglomeration with high measurement accuracy.  
+- 📊 Extracted **velocity and vorticity fields** using **PIVview** and performed **MATLAB-based quantification** of complex datasets for hypothesis testing and validation.  
+- 🔬 Demonstrated and quantified **sub-micron particle entrapment and agglomeration** induced by large-scale EHD vortices through real-time data acquisition and analysis.  
+- 🎤 Delivered a **podium presentation** of preliminary findings at the **42nd AAAR Annual Conference**, Albuquerque, NM, highlighting advances in EHD-driven particle agglomeration.
 
-### 🧪 **Research Assistant**, Northern Illinois University, IL *(Aug 2023 – May 2024)*  
-- 🔬 Designed lab-scale **EHD vortex generator** (ESP-based).  
-- 📸 PIV Image Processing (PIVview, PIVlab) + MATLAB Data Analysis.  
-- 📘 Thesis Research on Large-Scale EHD Vortex for Particle Agglomeration.
  <table>
   <tr>
     <td>
@@ -292,6 +297,14 @@
     </td>
   </tr>
 </table>
+
+### 👨‍🏫 **Teaching Assistant**, Mechanical Engineering, Northern Illinois University *(Aug 2025 – Dec 2025)*  
+- 📐 Assisted in teaching **Engineering Graphics (MEE-270)**, providing hands-on instruction in CAD, engineering drawing standards, and product development through mentored **SolidWorks** laboratory sessions.  
+- 🌊 Supported instruction in **Fluid Mechanics (MEE-340)** by reinforcing core concepts such as dimensional analysis, conservation of mass, momentum, and energy, and internal and external flow applications.  
+- 🧮 Guided students in numerical problem formulation, physical interpretation of governing equations, and application of fluid mechanics principles to real engineering systems.  
+- 🗣️ Enhanced student engagement through clear technical communication and detail-oriented practical demonstrations.  
+- 📋 Coordinated course evaluations and supported accreditation-related activities to maintain academic standards and improve learning outcomes.
+
 
 ### 👨‍🏫 **Project Instructor**, Rockford Environmental Science Academy (RESA)  *(Jan 2024 – Dec 2024)* 
 - 🖨️ Taught **3D printing** and **Tinkercad** workshops.  
