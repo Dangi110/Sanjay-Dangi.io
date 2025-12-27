@@ -16,7 +16,7 @@
 </div>
 
 ## 📄 **Download CV**
-📌 [Download My CV](./CV_NOT.pdf)
+📌 [Download My CV](./CV_Sanjay_Dangi.pdf)
 
 ---
 
