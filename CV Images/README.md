@@ -66,7 +66,7 @@
 
 ## 🔥 **Latest Projects**
 ✅ **Air Quality Control:** Electrostatic Precipitator (ESP) for PM2.5 capture (filterless).  
-✅ **PIV Flow Characterization:** Large-Scale Electrohydrodynamic (EHD) Vortex for Particle Clustering in ESP.  
+✅ **EHD Vortex Flow Characterization Using PIV:** Large-Scale Electrohydrodynamic (EHD) Vortex for Particle Clustering in ESP.  
 ✅ **2D Laser Simulation:** Moving laser interaction with airflow and substrate.  
 ✅ **3D Printing Instructor:** Rockford Environmental Science Academy (RESA).  
 ✅ **Flow Imaging:** PIV analysis.
