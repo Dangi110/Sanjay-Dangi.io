@@ -156,6 +156,23 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="2.png" alt="Side View" width="550"><br>
+        <figcaption>Simulation of Fluid Flow Due to Obastacle (Python) </figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="Picture1.png" alt="Wrapping Automation" width="550"><br>
+        <figcaption>Heat Driven Cavity Flow (ANSYS Fluent)</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 </body>
 </html>
 
