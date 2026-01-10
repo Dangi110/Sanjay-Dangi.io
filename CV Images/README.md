@@ -82,7 +82,13 @@
     <td>
       <figure>
         <img src="2EHD Cam1_0015.png" alt="2EHD Cam1 Frame" width="250"><br>
-        <figcaption>Post-processed Image for Vector Flow Field at EHD# = 1.68 x 10^5</figcaption>
+        <figcaption>Velocity Flow Field of EHD Vortex</figcaption>
+      </figure>
+    </td>
+            <td>
+      <figure>
+        <img src="Tile Dispensing Full Assembly .png" alt="CAD Design" width="390"><br>
+               <figcaption>Tile Dispensing Mechanism</figcaption>
       </figure>
     </td>
   </tr>
