@@ -342,6 +342,23 @@
 - 🏭 Responsible for **Factory Line Maintenance**, **Inspection**, and **Inventory Management**.  
 - 👷‍♂️ Led **Technicians Team** and managed **labor operations**.
 
+  <table>
+  <tr>
+    <td>
+      <figure>
+        <img src="Biogas Production.png" alt="Biogas" width="450"><br>
+        <figcaption>Gas Production Process Flow (SCADA Interface)</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="Purification Unit.png" alt="Biogas Purification" width="390"><br>
+               <figcaption>Biogas Purification and Power Generation (SCADA)</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ### 💧 **Wastewater Treatment Project Lead**, Nepal *(2019 – 2021)*  
 - 🏗️ Led the **installation and testing** of a wastewater treatment plant in collaboration with **Bikon Water Treatment Pvt. Ltd.**  
 - ⚗️ Oversaw **chemical treatment** of wastewater from the **decantation process**.  
@@ -353,17 +370,19 @@
 - 🔧 Assisted in **general servicing and preventive maintenance** of **Internal Combustion (IC) engines** across multiple vehicle platforms.  
 - ⚡ Supported **fault inspection and diagnostics** for **Electric Vehicles (EVs)** and **Battery Systems**.  
 - ♻️ Gained exposure to **LEAN Manufacturing Concepts**, including waste minimization and process optimization.
- <table>
-  <tr>
-    <td><img src="20171025_143001.jpg" alt="20171025_143001" width="420"></td>
-  </tr>
-</table>
 
 #### 🏭 **Chaudhary Groups, Kathmandu, Nepal** *(May 2018 – Aug 2018)*  
 - 🏗️ Participated in the **re-design and optimization** of **plant layouts** to improve production efficiency.  
 - 🛠️ Supported **maintenance and troubleshooting** of **noodle** and **cheeseball** production lines, including associated **boiler** and **diesel generator systems**.  
 - 🧰 Assisted in **factory line inspection** and **routine equipment health monitoring**.
 
+
+ <table>
+  <tr>
+    <td><img src="20171025_143001.jpg" alt="20171025_143001" width="420"></td>
+    <td><img src="Noodle Production Line.png" alt="20171025_143001" width="350"></td>
+  </tr>
+</table>
 ---
 
 ## 💻 **Skills**
